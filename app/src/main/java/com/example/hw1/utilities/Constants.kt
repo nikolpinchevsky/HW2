@@ -4,6 +4,7 @@ class Constants {
     object Game {
         const val DROP_INTERVAL = 300L
         const val CREATE_INTERVAL = 1000L
-        const val NUM_COLS = 3
+        const val NUM_COLS = 5
+        const val NUM_ROWS = 9
     }
 }
